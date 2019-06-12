@@ -1,6 +1,7 @@
 # mullet
 
 ![mullet](https://i.imgur.com/EBOMbhH.jpg)
+![](https://i.imgur.com/o40jHFv.png)
 
 A 68 key keyboard with USB Type-C and RGB underglow
 
