@@ -3,7 +3,7 @@
 ![mullet](https://i.imgur.com/EBOMbhH.jpg)
 ![](https://i.imgur.com/o40jHFv.png)
 ![](https://i.imgur.com/pqnOIrT.png)
-A 68 key keyboard with USB Type-C and RGB underglow
+A 67 key keyboard with USB Type-C and RGB underglow
 
 Keyboard Maintainer: coseyfannitutti (https://github.com/coseyfannitutti)
 
