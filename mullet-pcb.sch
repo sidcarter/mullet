@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
 LIBS:mullet-pcb-cache
-EELAYER 26 0
+EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -3281,7 +3281,7 @@ D-
 Text GLabel 2250 5500 0    50   Input ~ 0
 D+
 $Comp
-L Type-C:HRO-TYPE-C-31-M-12 USB1
+L mullet-pcb-rescue:HRO-TYPE-C-31-M-12-Type-C USB1
 U 1 1 5C71D73F
 P 1350 4850
 F 0 "USB1" H 1100 5550 60  0000 C CNN
